@@ -1,0 +1,26 @@
+.container{
+    text-align: center;
+    justify-content: center;
+}
+
+h1{
+    font-size: 3em;
+    color: green;
+}
+
+.inputBox{
+    width: 80%;
+}
+
+.submitButton{
+    background-color: green;
+    margin-top: 30px;
+    width: 100px;
+    padding: 5px;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.buttonContainer{
+    justify-content: center;
+}
